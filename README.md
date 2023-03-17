@@ -1,0 +1,2 @@
+# FiveM-QBCore-CryptoMining
+ 
